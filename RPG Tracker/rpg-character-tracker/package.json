@@ -1,0 +1,35 @@
+{
+  "name": "rpg-character-tracker",
+  "version": "1.0.0",
+  "description": "A web-based application to help tabletop RPG players manage their characters across sessions.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "RPG",
+    "tabletop",
+    "character tracker",
+    "Dungeons and Dragons",
+    "Pathfinder"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-plugin-react": "^7.27.0"
+  },
+  "homepage": "http://yourhomepage.com",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/yourusername/rpg-character-tracker.git"
+  }
+}
